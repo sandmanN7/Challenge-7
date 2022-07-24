@@ -6,7 +6,7 @@ The first objective of this assignment was to create queries to find out and sto
 - A substantial number of employees are on their way towards retirement, this amounts close to 15% of the total employees at Pewlett Hackard.
 
 - The overwhelming majority of the retiring employees are in senior positions, roughly two-thirds.
-![This is an image](
+![This is an image](https://github.com/sandmanN7/Challenge-7/blob/main/Challenge/retirement_titles.png)
 
 - A significant portion of employees who are retiring have held two or more titles within the company.
 - There are around 1500 employees eligible for mentorship roles who were born in 1965.
